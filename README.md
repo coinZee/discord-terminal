@@ -30,7 +30,7 @@ Please exercise caution when using this bot as it provides direct access to the 
     - Or if u want the bot to be running in the background, ```python main.py &```. And then use ```disown```. u can close the terminal.
 5. Closing the bot
     - You can use ```htop``` and kill the process
-    - Alternatively you can use pgrep and pkill ```999 (with actual pid)```
+    - Alternatively you can use pgrep and pkill ```999``` (with actual pid)
 
 ## Usage
 
