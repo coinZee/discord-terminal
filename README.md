@@ -17,9 +17,12 @@ Please exercise caution when using this bot as it provides direct access to the 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/discord-terminal.git`
+1. Clone the repository: `git clone https://github.com/coinZee/discord-terminal.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Configure the bot token in the `.env` file.
+    - Replace the BOT_KEY, Run the bot and use /show_id command it'll show you your id
+    - You dont need to put "" or '' around the token and id
+    - Replace the OWNER_ID with your id
 4. Start the bot: `python main.py`
 
 ## Usage
