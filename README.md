@@ -1,5 +1,11 @@
-# discord-terminal
+# Discord-terminal
 basically ur system terminal in discord
+
+# Purpose?
+
+- 1. You can basically (kinda) have ssh access to ur system without terminal
+
+- 2. That's basically it
 
 # Discord Terminal Bot
 
@@ -17,8 +23,6 @@ Please exercise caution when using this bot as it provides direct access to the 
 4. Start the bot: `python main.py`
 
 ## Usage
-
-Once the bot is running and connected to your Discord server, you can use the following commands:
 
 - Invite the bot to your server, type in any channel the bot has access to, the command will run.
 - /ctrl_c to kill current process
