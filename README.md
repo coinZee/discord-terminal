@@ -3,7 +3,7 @@ Basically ur system terminal but control in discord
 
 # Purpose?
 
-- 1. You can basically (kinda) have ssh access to ur system without terminal
+- 1. You can run some basic commands
 
 - 2. That's basically it
 
@@ -13,7 +13,7 @@ This Discord bot allows you to control the system terminal directly from within 
 
 ## Caution
 
-Please exercise caution when using this bot as it provides direct access to the system terminal. Improper usage or executing malicious commands can lead to unintended consequences or compromise the security of your system.
+just be careful 
 
 ## Installation
 
